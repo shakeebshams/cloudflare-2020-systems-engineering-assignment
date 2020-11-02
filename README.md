@@ -1,4 +1,4 @@
-# Systems Engineering Requests Rool
+# Systems Engineering Requests Tool
 
 ## What is it?
 
@@ -6,7 +6,7 @@ I built a CLI tool for Cloudflare's 2021 Engineering Assesment which makes HTTP 
 
 
 ### Installation
-Install go from here https://golang.org/doc/install
+Install go from here https://golang.org/doc/install.
 Once you have go installed, you should be ready to go!
 
 ### Usage
@@ -22,20 +22,20 @@ Once you have go installed, you should be ready to go!
 ### General Results
 
 Cloudflare Worker /links site
-![workerlinkssite](screenshots/:linksGen.png)
+![workerlinkssite](screenshots/linksGen.png)
 
 ### Profile Stats Results
 Cloudflare Worker Site
-![workersite](screenshots/:workerProfile.png)
+![workersite](screenshots/workerProfile.png)
 
 Cloudflare Worker /links site
-![workersite](screenshots/:linksProfile.png)
+![workersite](screenshots/linksProfile.png)
 
 Cloudflare.com
-![workersite](screenshots/:cloudflareProfile.png)
+![workersite](screenshots/cloudflareProfile.png)
 
 Cycling Stats site
-![cycling ranking profile](screenshots/:cyclingProfile.png)
+![cycling ranking profile](screenshots/cyclingProfile.png)
 
 Google.com Profile
 ![Google Profile](screenshots/googleProfile.png)
